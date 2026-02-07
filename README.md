@@ -1,4 +1,4 @@
-# Mechanical-Kinematics-Simulation-BGM2
+# Mechanical-Kinematics-Simulation-BGM
 DMU Kinematics PJT
 
 ---
